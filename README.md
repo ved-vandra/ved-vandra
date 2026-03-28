@@ -31,7 +31,6 @@
 
 ### 🤖 Machine Learning Projects
 - 🏦 [Credit Risk & Loan Default Prediction](https://github.com/ved-vandra/credit-risk-prediction) 
-  *Predicting borrower default risk using LightGBM, XGBoost, and SHAP for model explainability.*
 
 ---
 ## 📫 Contact Me
@@ -99,13 +98,6 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ved-vandra&show_icons=true&theme=radical" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ved-vandra&theme=radical" />
-</p>
-
----
-
-## 🔥 Top Languages
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ved-vandra&layout=compact&theme=radical" />
 </p>
 
 ---
